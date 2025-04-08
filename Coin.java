@@ -7,6 +7,7 @@ import java.io.IOException;
 import javax.imageio.ImageIO;
 
 public class Coin {
+	//my pointless comment
     
     // image that represents the coin's position on the board
     private BufferedImage image;
